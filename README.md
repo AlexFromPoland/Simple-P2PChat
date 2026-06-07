@@ -28,8 +28,9 @@ Technical requirements:
 * the project should include a Readme or documentation in another format containing, amongst other things: build/run instructions and any limitations 
 * the solution should be buildable/runable by a third party on two Linux machines.
 
-## Running the application
+## Launching the application
 
+all commands need to be executed in Linux terminal 
 
 **If the git package is not installed, you must install it**
 
