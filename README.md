@@ -46,14 +46,14 @@ dnf install git-all
 
 Cloning the application locally
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/AlexFromPoland/Simple-P2PChat.git
 ```
 
 
 Locate the project in the saved directory
 
 ```bash
-  cd 
+  cd Simple-P2PChat
 ```
 
 Running the application
