@@ -66,7 +66,8 @@ after launching the application:
 * you must enter the display name on the network
 * new peers on the network are automatically added to the chat
 
-
+## Tested
+The application has been tested on both a Linux (Debian) virtual machine and on the Windows operating system, but only with a maximum of two connections
 
 
 ## Application Limitations
