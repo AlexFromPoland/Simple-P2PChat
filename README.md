@@ -9,6 +9,7 @@ A P2P chat application for a local network on Linux
  - [Task](#Task)
  - [Launching the application](#Launching-the-application)
  - [Application limitations](#Limitations)
+ - [Application Test](#Tested)
  - [Author](#Author)
 
 
